@@ -20,7 +20,12 @@ The main goal of this project is to practice building a **React app** that inter
 - **React**: Frontend JavaScript library for building the user interface.
 - **OpenWeather API**: The weather data is fetched from the [OpenWeatherMap API](https://openweathermap.org/api).
 - **CSS**: Styling and layout.
-- **Axios**: For making HTTP requests to the OpenWeather API.
+- **Axios**: For making HTTP requests to the OpenWeather API## 🌍 Live Demo
+
+[🚀 View Live Demo](https://weather-app-using-react-dmf2.vercel.app/)
+
+
+  
 
 ## 📸 Screenshot
 
