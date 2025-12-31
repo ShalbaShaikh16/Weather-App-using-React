@@ -29,7 +29,7 @@ The main goal of this project is to practice building a **React app** that inter
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot)  
+![Weather App Screenshot](https://github.com/ShalbaShaikh16/Weather-App-using-React/blob/master/weather.png)  
 
 ## ⚙️ Installation & Setup
 
